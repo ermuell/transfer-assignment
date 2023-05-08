@@ -3,3 +3,4 @@
 - collaboration is easy
 # Weaknesses
 - not very intuitive/ greater barrier of entry
+- syncing of the data has to be done manually
